@@ -1,11 +1,16 @@
 <!-- Neon Cyberpunk Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Adityan%20Rai&fontSize=48&fontColor=00F7FF&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20AI-Integrated%20Systems&descAlignY=65&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=230&color=gradient&text=Hello%20👋%20I'm%20Adityan&animation=fadeIn&fontColor=fff&fontSize=40"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Scalable+Systems;AI-Powered+Applications;Full-Stack+Engineering;DSA+Enthusiast" />
+  <img src="https://img.shields.io/badge/Building-AI%20Powered%20Apps-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stack-React%20%7C%20Next%20%7C%20Node%20%7C%20Express-crimson?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Structures%20%26%20Algorithms-blue?style=for-the-badge" />
 </p>
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Scalable+Systems;AI-Powered+Applications;Full-Stack+Engineering;DSA+Enthusiast" />
+</p> -->
 
 ---
 
@@ -14,15 +19,13 @@
 - 🎓 Third-Year Computer Science Undergraduate  
 - 🚀 Full-Stack Developer (Next.js, React, Express, PostgreSQL)  
 - 🤖 AI Integration using LLM APIs & structured output workflows  
-- 🏆 Hackathon Winner  
-- 📈 100+ DSA Problems Solved  
 
 ---
 
 ## 🧬 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,postgres,mysql,python,cpp,docker,git,github,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,postgres,mysql,python,cpp,docker,supabase,git,vercel&theme=dark" />
 </p>
 
 ---
